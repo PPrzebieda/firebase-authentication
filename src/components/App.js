@@ -27,7 +27,11 @@ function App() {
                 />
               </Route>
               <Route exact path="/signup" element={<Signup />} />
-              <Route exact path="/login" element={<Login />} />
+              <Route
+                exact
+                path="/firebase-authentication/login"
+                element={<Login />}
+              />
               <Route
                 exact
                 path="/forgot-password"
