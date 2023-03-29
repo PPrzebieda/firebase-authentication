@@ -20,11 +20,19 @@ function App() {
             <Routes>
               <Route exact path="/" element={<PrivateRoute />}>
                 <Route exact path="/" element={<Dashboard />} />
-                <Route path="/update-profile" element={<UpdateProfile />} />
+                <Route
+                  exact
+                  path="/update-profile"
+                  element={<UpdateProfile />}
+                />
               </Route>
-              <Route path="/signup" element={<Signup />} />
-              <Route path="/login" element={<Login />} />
-              <Route path="/forgot-password" element={<ForgotPassword />} />
+              <Route exact path="/signup" element={<Signup />} />
+              <Route exact path="/login" element={<Login />} />
+              <Route
+                exact
+                path="/forgot-password"
+                element={<ForgotPassword />}
+              />
             </Routes>
           </div>
         </Container>
