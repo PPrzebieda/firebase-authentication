@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github.io/firebase-authentication/static/css/main.c2cab247.css",
-    "main.js": "/github.io/firebase-authentication/static/js/main.487e658f.js",
-    "index.html": "/github.io/firebase-authentication/index.html",
-    "main.c2cab247.css.map": "/github.io/firebase-authentication/static/css/main.c2cab247.css.map",
-    "main.487e658f.js.map": "/github.io/firebase-authentication/static/js/main.487e658f.js.map"
+    "main.css": "/firebase-authentication/static/css/main.c2cab247.css",
+    "main.js": "/firebase-authentication/static/js/main.bf870a83.js",
+    "index.html": "/firebase-authentication/index.html",
+    "main.c2cab247.css.map": "/firebase-authentication/static/css/main.c2cab247.css.map",
+    "main.bf870a83.js.map": "/firebase-authentication/static/js/main.bf870a83.js.map"
   },
   "entrypoints": [
     "static/css/main.c2cab247.css",
-    "static/js/main.487e658f.js"
+    "static/js/main.bf870a83.js"
   ]
 }
