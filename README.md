@@ -1,4 +1,4 @@
-# React Login Application
+# React Login Application with Firebase authentication
 
 React application with Bootstrap styles and Firebase Authentication 
 
@@ -14,6 +14,4 @@ React application with login, registration and dashboard component. After regist
 + Dashboard component available after sucessful login
 + Log out button
 
-# To do:
 
-- Store data in local storage
